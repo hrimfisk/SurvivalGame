@@ -5,4 +5,4 @@
 4. Click hrimfisk/SurvivalGame and then click Browse
 5. Navigate to My Documents
 6. Select Unreal Projects folder and confirm
-The files should now be downloading to the subfolder SurvivalGame in the Unreal Projects folder you selected
+7. The files should now be downloading to the subfolder SurvivalGame in the Unreal Projects folder you selected
